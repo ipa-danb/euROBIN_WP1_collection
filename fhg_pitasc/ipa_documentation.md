@@ -63,8 +63,8 @@ The good solution overview has:
 | pitasc          | [See here](https://www.pitasc.fraunhofer.de/)                                                                           | Robot programming framework                 | Internal                                  |
 | UR5e ROS Driver | [See here](https://github.com/UniversalRobots/Universal_Robots_ROS_Driver)                                                                           | Robot programming framework                 | Public                                  |
 | g_compensator | [See here](https://github.com/ipa320/g_compensator)                                                                       | Gravity Compensation                 | Public                                  |
-| WSG50 Driver | [See here]([https://github.com/ipa320/ipa325_wsg50])                                                                       | Gripper Driver                 | Public                                  |
-| Frame Editor | [See here]([https://github.com/ipa320/rqt_frame_editor_plugin])                                                            | Edit TF Frames in ROS                 | Public                                  |
+| WSG50 Driver | [See here](https://github.com/ipa320/ipa325_wsg50)                                                                       | Gripper Driver                 | Public                                  |
+| Frame Editor | [See here](https://github.com/ipa320/rqt_frame_editor_plugin)                                                            | Edit TF Frames in ROS                 | Public                                  |
 
 
 ## How to run
